@@ -1,2 +1,7 @@
 # Unfolderer
-Macro that extracts files from folder
+Macro that extracts files from folders
+
+1. Renaming files to parent directory name
+2. Move files to parent directory
+3. Skip the folder if is not a last leaf in directory tree
+4. Skip empty folder
