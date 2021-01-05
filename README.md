@@ -1,5 +1,5 @@
 # Unfolderer
-Macro that extracts files from folders
+Macro extracting files from folders
 
 1. Renaming files to parent directory's name  and Numbering
 2. Move files to parent directory
